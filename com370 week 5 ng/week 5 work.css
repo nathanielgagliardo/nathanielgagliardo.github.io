@@ -1,0 +1,54 @@
+.div-1 {
+    position:fixed;top:100px;
+    position:fixed;right:700px;
+    width:600px;
+    height:60px;
+    background-color:orange;
+    border:1px,solid,black;
+}
+
+.div-2 {
+    position:fixed;top:115px; 
+    position:fixed;right:1220px;
+    width:50px;
+    height:30px;
+    background-color:rgb(11, 211, 211);
+    border:1px,solid,blue;
+    font-family:Arial, Helvetica, sans-serif;
+    color:white;
+}
+
+.div-3 {
+    position:fixed;top:115px; 
+    position:fixed;right:860px;
+    width:50px;
+    height:30px;
+    background-color:rgb(11, 211, 211);
+    border:1px,solid,blue;
+    font-family:Arial, Helvetica, sans-serif;
+    color:white;
+}
+
+.div-4 {
+    position:fixed;top:115px;
+    position:fixed;right:790px;
+    width:50px;
+    height:30px;
+    background-color:rgb(11, 211, 211);
+    border:1px,solid,blue;
+    font-family:Arial, Helvetica, sans-serif;
+    color:white;
+}
+
+.div-5 {
+    position:fixed;top:115px; 
+    position:fixed;right:720px;
+    width:50px;
+    height:30px;
+    background-color:rgb(11, 211, 211);
+    border:1px,solid,blue;
+    font-family:Arial, Helvetica, sans-serif;
+    color:white;
+}
+/*I don't know how to make the text white that's the only thing I couldn't figure out. I genuinely think this is as good as I'm going to get.*/
+/*Update: I figured out how to make the text white! Go me! I don't think its perfect by any means, but I gave it my best shot. I'm still not great at this coding thing.*/

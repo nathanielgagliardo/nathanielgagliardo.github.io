@@ -1,0 +1,150 @@
+img {
+  height: 200px;
+  width: 300px;
+  display: inline-block;
+}
+
+#img-0 {
+  height: 500px;
+  width: 400px;
+  display: inline-block;
+}
+
+#img-1 {
+  height: 400px;
+  width: 600px;
+  display: inline-block;  
+}
+
+#img-2 {
+  height: 600px;
+  width: 600px;
+  display: inline-block;
+}
+
+#img-3 {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+}
+
+#img-4 {
+  height: 800px;
+  width: 800px;
+  display: inline-block;
+}
+
+#img-5 {
+  height: 400px;
+  width: 200px;
+  display: inline-block;
+}
+
+#img-6 {
+  height: 800px;
+  width: 500px;
+  display: inline-block;
+}
+
+#img-7 {
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+}
+
+#img-8 {
+  height: 1000px;
+  width: 800px;
+  display: inline-block;
+}
+
+#img-9 {
+  height: 500px;
+  width: 500px;
+  display: inline-block; 
+}
+
+#img-10 {
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+}
+
+#img-11 {
+  height: 200px;
+  width: 100px;
+  display: inline-block;
+}
+
+#img-12 {
+  height: 1000px;
+  width: 500px;
+  display: inline-block;
+}
+
+#img-13 {
+  height: 500px;
+  width: 600px;
+  display: inline-block;
+}
+
+#img-14 {
+  height: 700px;
+  width: 700px;
+  display: inline-block;
+}
+
+#img-15 {
+  height: 600px;
+  width: 800px;
+  display: inline-block;
+}
+
+#img-16 {
+  height: 500px;
+  width: 500px;
+  display: inline-block;
+}
+
+#img-17 {
+  height: 600px;
+  width: 300px;
+  display: inline-block;
+}
+
+#img-18 {
+  height: 800px;
+  width: 500px;
+  display: inline-block;
+}
+
+#img-19 {
+  height: 600px;
+  width: 600px;
+  display: inline-block;
+}
+
+#img-20 {
+  height: 400px;
+  width: 800px;
+  display: inline-block;
+}
+
+#img-21 {
+  height: 700px;
+  width: 500px;
+  display: inline-block;
+}
+
+#img-22 {
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+}
+
+#img-23 {
+  height: 300px;
+  width: 500px;
+  display: inline-block;
+}
+/* I didn't want to make images feel too big or too small, so I tried to make them all similar sizes so no image encroaches on another.*/
